@@ -1,0 +1,62 @@
+html{
+background-image: url("../img/background2.png");
+}
+
+input[type=text], select {
+width: 100%;
+padding: 12px 20px;
+margin: 8px 0;
+display: inline-block;
+border: 1px solid #ccc;
+border-radius: 4px;
+box-sizing: border-box;
+}
+input[type=password], select {
+width: 100%;
+padding: 12px 20px;
+margin: 8px 0;
+display: inline-block;
+border: 1px solid #ccc;
+border-radius: 4px;
+box-sizing: border-box;
+}
+input[type="submit"] {
+	width: 100%;
+	background-color: #f14444;
+	color: white;
+	padding: 10px 10px;
+	margin: 40px 0 10px 0;
+	border: none;
+	border-radius: 10px;
+	cursor: pointer;
+	font-weight: bold;
+	font-family: initial;
+}
+input[type="submit"]:hover {
+    background-color: #cc0000;
+}
+h1 {
+font-family: 'Lobster', cursive;
+}
+html, body{
+font-family: 'Indie Flower', cursive;
+}
+a {
+	text-decoration: none;
+	color: black;
+	margin: 0 auto;
+}
+a:hover {
+color: #cc0000;
+}
+form {
+	background: #fff;
+	width: 50%;
+	border-radius: 15px;
+	border: 2px solid #eeeaea;
+	margin: 0 auto;
+	padding: 10px 80px 10px 80px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	box-shadow: 5px 5px #8a8888;
+}
