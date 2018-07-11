@@ -7,6 +7,8 @@
 #Run Command:
 -php artisan migrate
 -php artisan serve
+#Required:
+-Nexmo account for sms api
 
 
 To see all defined routes and corresponding controller methods use `php artisan route:list` console command
